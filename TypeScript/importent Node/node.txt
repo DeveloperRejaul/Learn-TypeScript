@@ -1,0 +1,12 @@
+
+//TODO: COMPILE => :tsc 
+//TODO: COMPILE and witching mode => :tsc -w 
+//TODO: Showing all command  => :npx tsc 
+
+
+
+//FIXME:
+//OPTIMIZE
+//UGLY
+
+

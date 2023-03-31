@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "Rejaul Karim",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": "learing typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperRejaul/Learn-TypeScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeveloperRejaul/Learn-TypeScript/issues"
+  },
+  "homepage": "https://github.com/DeveloperRejaul/Learn-TypeScript#readme"
+}
