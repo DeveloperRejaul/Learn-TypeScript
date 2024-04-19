@@ -1,0 +1,10 @@
+function getUsersOnlineMessage(numUsersOnline: number) {
+    if (numUsersOnline) {
+      return `There are ${numUsersOnline} online now!`;
+    }
+  
+    return "Nobody's here. :(";
+}
+
+const res =  getUsersOnlineMessage(100)
+console.log(res);
